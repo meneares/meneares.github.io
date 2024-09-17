@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://meneares.github.io/sitemap.html.gz
+Sitemap: https://meneares.github.io/app/sitemap.html.gz
+Sitemap: https://meneares.github.io/assets/sitemap.html.gz
+Sitemap: https://meneares.github.io/css/sitemap.html.gz
+Sitemap: https://meneares.github.io/includes/sitemap.html.gz
+Sitemap: https://meneares.github.io/item/sitemap.html.gz
+Sitemap: https://meneares.github.io/src/sitemap.html.gz
